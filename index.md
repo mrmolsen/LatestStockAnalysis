@@ -17,13 +17,13 @@ Dive into our most recent stock analyses and market commentary:
   {% for post in site.posts limit:5 %} {# Loop through the 5 most recent posts #}
   <li>
     <h3>
-      <a class="post-link" href="{{ post.url | relative_url }}">
+      <a class="post-link" href="LatestStockAnalysis/{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
     </h3>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    <time datetime="LatestStockAnalysis/{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
     <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p> {# Display a short excerpt #}
-    <a href="{{ post.url | relative_url }}" class="read-more-link">Read More &raquo;</a>
+    <a href="LatestStockAnalysis/{{ post.url | relative_url }}" class="read-more-link">Read More &raquo;</a>
   </li>
   {% endfor %}
 </ul>
