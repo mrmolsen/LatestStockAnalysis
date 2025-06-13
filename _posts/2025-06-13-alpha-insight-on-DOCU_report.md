@@ -1,4 +1,3 @@
-```narkdown
 ---
 layout: post
 title: "DocuSign's Downtrend: Why Patience, Not Positions, is the Play for DOCU"
@@ -67,4 +66,3 @@ For aggressive, risk-tolerant traders, there might be a short opportunity to cap
 *   **Time Horizon:** Short-to-medium term (1-3 months) for this technical move.
 
 DocuSign has the potential to redefine itself, but the journey will be bumpy. Until we see clear evidence of the IAM strategy translating into robust, accelerating revenue growth and a reversal of the current technical picture, prudence dictates a highly cautious approach. This is a stock to monitor closely, not to chase.
-```
