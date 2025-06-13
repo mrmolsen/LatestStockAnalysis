@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "DocuSign's Downtrend: Why Patience, Not Positions, is the Play for DOCU"
