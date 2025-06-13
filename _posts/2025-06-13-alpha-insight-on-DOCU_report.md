@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "DocuSign's Downtrend: Why Patience, Not Positions, is the Play for DOCU"
-date: 2025-06-23 14:30:00 +0000
+date: 2025-06-13 14:30:00 +0000
 categories:
   - "Stock Analysis"
   - "US Equities"
